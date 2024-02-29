@@ -8,6 +8,8 @@ import cv from "../../pdf/Resume.pdf";
 import github from "../../img/github.png";
 import linkedin from "../../img/linkedin.png";
 import portFolioImage from "../../img/portfolio-img.png";
+import furvo from "../../img/furvo-website.png";
+import telegramBot from "../../img/telegram-bot.png";
 
 const Homepage = () => {
   const [text] = useTypewriter({
@@ -89,8 +91,16 @@ const Homepage = () => {
           </p>
         </div>
         <div className="showcase">
-          <div className="showcase-1"></div>
-          <div className="showcase-2"></div>
+          <div className="showcase-1">
+            <a href="https://kab0o0m.github.io/Furniture-Ecommerce-Website/">
+              <img src={furvo} alt="" target="_blank" />
+            </a>
+          </div>
+          <div className="showcase-2">
+            <a href="https://t.me/PremiumTutorsAssignmentBot">
+              <img src={telegramBot} alt="" target="_blank" />
+            </a>
+          </div>
           <div className="showcase-3"></div>
           <div className="showcase-4"></div>
         </div>

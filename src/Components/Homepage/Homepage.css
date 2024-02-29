@@ -120,6 +120,11 @@
   width: 5rem;
 }
 
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 .body-header{
   display: flex;
@@ -144,7 +149,29 @@
   text-align: center;
 }
 
+.showcase {
+  margin: 5rem 5rem 5rem 5rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  gap: 3rem;
+}
 
+.showcase-1,
+.showcase-2 {
+  width: 35rem;
+}
+
+.showcase-1 img,
+.showcase-2 img{
+  width: 35rem;
+  height: 30rem;
+  transition: transform 0.3s ease;
+}
+
+.showcase-1 img:hover,
+.showcase-2 img:hover {
+  transform: scale(1.1  );
+}
 
 
 
