@@ -3,8 +3,8 @@ import "./Nav.css";
 
 const Nav = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark">
-      <div className="container ">
+    <nav className="navbar navbar-expand-lg">
+      <div className="container">
         <button
           className="navbar-toggler"
           type="button"
@@ -32,12 +32,12 @@ const Nav = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/services">
+              <a className="nav-link" href="/">
                 Skills
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/contact">
+              <a className="nav-link" href="/">
                 Contact
               </a>
             </li>

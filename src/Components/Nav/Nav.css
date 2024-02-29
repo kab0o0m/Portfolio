@@ -1,3 +1,19 @@
+.container{
+  margin-right: 10rem;
+}
+
 .navbar-nav .nav-item {
-  margin-right: 2rem; /* Adjust the value as needed */
+  margin-right: 3rem; /* Adjust the value as needed */
+}
+
+.nav-link {
+  color: #FFFFFF;
+}
+
+.nav-link:hover {
+  color: #AE46FF;
+}
+
+.container {
+  padding: 2rem 0 0 0;
 }
