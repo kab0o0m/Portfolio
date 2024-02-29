@@ -1,0 +1,48 @@
+.top {
+  display: flex;
+  margin: 5rem 0 0 0;
+}
+
+.intro {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 10rem 0 0 20rem;
+}
+
+.name {
+  color: #FFFFFF;
+}
+.software {
+  color: #AE46FF 
+}
+
+.portfolio-image {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.portfolio-image img{
+  margin: 5rem;
+  width: 17rem;
+  animation: animate 5s ease-in-out infinite;
+  transition: all 1s ease-in-out;
+}
+.engineer-developer {
+  color: #FFFFFF;
+}
+.cursor {  
+  color: purple
+}
+
+@keyframes animate {
+  0%, 100% {
+    border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+  }
+  50% {
+    border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
+  }
+}
