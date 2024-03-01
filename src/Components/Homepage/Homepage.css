@@ -128,7 +128,7 @@
 .skills-body {
   display: flex;
   justify-content: space-evenly;
-  width: 50%;
+  width: 70%;
   margin: 0 0 5rem 0;
 }
 .skills img{
