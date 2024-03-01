@@ -12,3 +12,7 @@ This portfolio website serves as a platform to showcase my work as a [software d
 - **Skills:** List your technical skills and competencies.
 - **Resume/CV:** Provide a link to your resume or CV for download.
 - **Contact:** Include contact information or a contact form for inquiries.
+
+
+
+![Screenshot 2024-03-01 at 4 03 18 PM](https://github.com/kab0o0m/Portfolio/assets/134916365/5db46537-9c67-400b-bccd-adaa05d1fada)
