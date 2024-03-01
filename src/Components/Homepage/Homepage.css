@@ -157,19 +157,26 @@
 }
 
 .showcase-1,
-.showcase-2 {
+.showcase-2,
+.showcase-3,
+.showcase-4 {
   width: 35rem;
 }
 
 .showcase-1 img,
-.showcase-2 img{
+.showcase-2 img,
+.showcase-3 img,
+.showcase-4 img {
   width: 35rem;
-  height: 30rem;
+  height: 22rem;
   transition: transform 0.3s ease;
+  border-radius: 2rem;
 }
 
 .showcase-1 img:hover,
-.showcase-2 img:hover {
+.showcase-2 img:hover,
+.showcase-3 img:hover,
+.showcase-4 img:hover {
   transform: scale(1.1  );
 }
 

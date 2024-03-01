@@ -10,6 +10,8 @@ import linkedin from "../../img/linkedin.png";
 import portFolioImage from "../../img/portfolio-img.png";
 import furvo from "../../img/furvo-website.png";
 import telegramBot from "../../img/telegram-bot.png";
+import koreanFood from "../../img/korean-food-website.png";
+import sudoku from "../../img/sudoku.png";
 
 const Homepage = () => {
   const [text] = useTypewriter({
@@ -92,17 +94,31 @@ const Homepage = () => {
         </div>
         <div className="showcase">
           <div className="showcase-1">
-            <a href="https://kab0o0m.github.io/Furniture-Ecommerce-Website/">
-              <img src={furvo} alt="" target="_blank" />
+            <a
+              href="https://kab0o0m.github.io/Furniture-Ecommerce-Website/"
+              target="_blank"
+            >
+              <img src={furvo} alt="" />
             </a>
           </div>
           <div className="showcase-2">
-            <a href="https://t.me/PremiumTutorsAssignmentBot">
-              <img src={telegramBot} alt="" target="_blank" />
+            <a href="https://t.me/PremiumTutorsAssignmentBot" target="_blank">
+              <img src={telegramBot} alt="" />
             </a>
           </div>
-          <div className="showcase-3"></div>
-          <div className="showcase-4"></div>
+          <div className="showcase-3">
+            <a href="https://github.com/kab0o0m/Sudoku" target="blank">
+              <img src={sudoku} alt="" />
+            </a>
+          </div>
+          <div className="showcase-4">
+            <a
+              href="https://singaporewebdevelopment.com/cs2024/tut03grp4/"
+              target="blank"
+            >
+              <img src={koreanFood} alt="" />
+            </a>
+          </div>
         </div>
       </div>
     </div>
