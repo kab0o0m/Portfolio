@@ -12,6 +12,13 @@ import furvo from "../../img/furvo-website.png";
 import telegramBot from "../../img/telegram-bot.png";
 import koreanFood from "../../img/korean-food-website.png";
 import sudoku from "../../img/sudoku.png";
+import htmlLogo from "../../img/html.png";
+import cssLogo from "../../img/css.png";
+import jsLogo from "../../img/js.png";
+import figmaLogo from "../../img/figma.svg";
+import reactLogo from "../../img/react.svg";
+import pythonLogo from "../../img/python.png";
+import javaLogo from "../../img/java.webp";
 
 const Homepage = () => {
   const [text] = useTypewriter({
@@ -46,15 +53,25 @@ const Homepage = () => {
             </Fade>
           </div>
           <div className="socials">
-            <a href={cv} download="John_resume.pdf" className="cv">
+            <a
+              href={cv}
+              download="John_resume.pdf"
+              className="cv"
+              rel="noreferrer"
+            >
               Download CV
             </a>
-            <a href="https://github.com/kab0o0m/" target="_blank">
-              <img src={github} alt="" />
+            <a
+              href="https://github.com/kab0o0m/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img src={github} alt="" rel="noreferrer" />
             </a>
             <a
               href="https://www.linkedin.com/in/john-ang-yi-heng-157544147/"
               target="_blank"
+              rel="noreferrer"
             >
               <img src={linkedin} alt="" />
             </a>
@@ -84,6 +101,41 @@ const Homepage = () => {
           </div>
         </div>
       </div>
+      <div className="skills">
+        <div className="skills-header">
+          <p className="body-header-title">My Skills</p>
+        </div>
+        <div className="skills-body">
+          <div className="skills-body-card">
+            <img src={htmlLogo} alt="" />
+            <p>HTML</p>
+          </div>
+          <div className="skills-body-card">
+            <img src={cssLogo} alt="" />
+            <p>CSS</p>
+          </div>
+          <div className="skills-body-card">
+            <img src={jsLogo} alt="" />
+            <p>JS</p>
+          </div>
+          <div className="skills-body-card">
+            <img src={reactLogo} alt="" />
+            <p>REACT</p>
+          </div>
+          <div className="skills-body-card">
+            <img src={figmaLogo} alt="" />
+            <p>FIGMA</p>
+          </div>
+          <div className="skills-body-card">
+            <img src={pythonLogo} alt="" />
+            <p>PYTHON</p>
+          </div>
+          <div className="skills-body-card">
+            <img src={javaLogo} alt="" />
+            <p>JAVA</p>
+          </div>
+        </div>
+      </div>
       <div className="body">
         <div className="body-header">
           <p className="body-header-title">Recent Works</p>
@@ -97,17 +149,26 @@ const Homepage = () => {
             <a
               href="https://kab0o0m.github.io/Furniture-Ecommerce-Website/"
               target="_blank"
+              rel="noreferrer"
             >
               <img src={furvo} alt="" />
             </a>
           </div>
           <div className="showcase-2">
-            <a href="https://t.me/PremiumTutorsAssignmentBot" target="_blank">
+            <a
+              href="https://t.me/PremiumTutorsAssignmentBot"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img src={telegramBot} alt="" />
             </a>
           </div>
           <div className="showcase-3">
-            <a href="https://github.com/kab0o0m/Sudoku" target="blank">
+            <a
+              href="https://github.com/kab0o0m/Sudoku"
+              target="blank"
+              rel="noopener"
+            >
               <img src={sudoku} alt="" />
             </a>
           </div>
@@ -115,6 +176,7 @@ const Homepage = () => {
             <a
               href="https://singaporewebdevelopment.com/cs2024/tut03grp4/"
               target="blank"
+              rel="noopener"
             >
               <img src={koreanFood} alt="" />
             </a>
