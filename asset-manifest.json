@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.57d01a38.css",
-    "main.js": "/portfolio/static/js/main.ddf04342.js",
-    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/korean-food-website.png": "/portfolio/static/media/korean-food-website.5d79abd1449a629f2189.png",
-    "static/media/portfolio-img.png": "/portfolio/static/media/portfolio-img.bfd9d1218b8a843b88e1.png",
-    "static/media/furvo-website.png": "/portfolio/static/media/furvo-website.4a11f27e25bd6879b382.png",
-    "static/media/telegram-bot.png": "/portfolio/static/media/telegram-bot.45d10c102dd36ac1d6ac.png",
-    "static/media/sudoku.png": "/portfolio/static/media/sudoku.da2c63f73a723fc62d2a.png",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.0d23c4fdb40814e71eea.pdf",
-    "static/media/github.png": "/portfolio/static/media/github.94c79cdb07dd099aa52a.png",
-    "static/media/linkedin.png": "/portfolio/static/media/linkedin.5bf5a5696a082082dfff.png",
-    "index.html": "/portfolio/index.html",
-    "main.57d01a38.css.map": "/portfolio/static/css/main.57d01a38.css.map",
-    "main.ddf04342.js.map": "/portfolio/static/js/main.ddf04342.js.map",
-    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.57d01a38.css",
+    "main.js": "/Portfolio/static/js/main.6b6f55f8.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/korean-food-website.png": "/Portfolio/static/media/korean-food-website.5d79abd1449a629f2189.png",
+    "static/media/portfolio-img.png": "/Portfolio/static/media/portfolio-img.bfd9d1218b8a843b88e1.png",
+    "static/media/furvo-website.png": "/Portfolio/static/media/furvo-website.4a11f27e25bd6879b382.png",
+    "static/media/telegram-bot.png": "/Portfolio/static/media/telegram-bot.45d10c102dd36ac1d6ac.png",
+    "static/media/sudoku.png": "/Portfolio/static/media/sudoku.da2c63f73a723fc62d2a.png",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.0d23c4fdb40814e71eea.pdf",
+    "static/media/github.png": "/Portfolio/static/media/github.94c79cdb07dd099aa52a.png",
+    "static/media/linkedin.png": "/Portfolio/static/media/linkedin.5bf5a5696a082082dfff.png",
+    "index.html": "/Portfolio/index.html",
+    "main.57d01a38.css.map": "/Portfolio/static/css/main.57d01a38.css.map",
+    "main.6b6f55f8.js.map": "/Portfolio/static/js/main.6b6f55f8.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57d01a38.css",
-    "static/js/main.ddf04342.js"
+    "static/js/main.6b6f55f8.js"
   ]
 }
