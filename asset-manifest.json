@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.57d01a38.css",
-    "main.js": "/Portfolio/static/js/main.6b6f55f8.js",
+    "main.js": "/Portfolio/static/js/main.b361f77c.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/korean-food-website.png": "/Portfolio/static/media/korean-food-website.5d79abd1449a629f2189.png",
     "static/media/portfolio-img.png": "/Portfolio/static/media/portfolio-img.bfd9d1218b8a843b88e1.png",
@@ -13,11 +13,11 @@
     "static/media/linkedin.png": "/Portfolio/static/media/linkedin.5bf5a5696a082082dfff.png",
     "index.html": "/Portfolio/index.html",
     "main.57d01a38.css.map": "/Portfolio/static/css/main.57d01a38.css.map",
-    "main.6b6f55f8.js.map": "/Portfolio/static/js/main.6b6f55f8.js.map",
+    "main.b361f77c.js.map": "/Portfolio/static/js/main.b361f77c.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57d01a38.css",
-    "static/js/main.6b6f55f8.js"
+    "static/js/main.b361f77c.js"
   ]
 }
