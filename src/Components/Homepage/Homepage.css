@@ -15,8 +15,15 @@
 .name {
   color: #FFFFFF;
 }
+
+.name h2,
+.description h5 {
+  margin: 0;
+}
+
 .software {
   color: #FFFFFF;
+  margin: 0;
 }
 
 .portfolio-image {
@@ -60,7 +67,7 @@
 }
 
 .socials {
-  margin: 1rem 0 0 0;
+  margin: 2rem 0 0 0;
   width: 20rem;
   display: flex;
   justify-content: space-between;
